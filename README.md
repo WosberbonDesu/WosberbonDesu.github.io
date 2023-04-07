@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Burak Keskin</h1>
-<h3 align="center">A passionate web developer from Turkey.</h3>
+<h1 align="center">Hi 👋, I'm Berke</h1>
+<h3 align="center">A passionate mobile developer from Turkey.</h3>
 <p align="left">
 </p>
 <h3 align="left"> 
