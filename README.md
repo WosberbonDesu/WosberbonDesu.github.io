@@ -4,8 +4,8 @@
 </p>
 <h3 align="left"> 
 
-<a href="https://apps-burakkeskin.github.io/" target="_blank" rel="noreferrer"> 
-Live Preview: https://wosberbondesu.github.io/
+<a href="https://wosberbondesu.github.io/" target="_blank" rel="noreferrer"> 
+Live Preview: wosberbondesu.github.io/
 </a> 
  
  </h3>
