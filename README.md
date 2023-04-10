@@ -5,7 +5,7 @@
 <h3 align="left"> 
 
 <a href="https://apps-burakkeskin.github.io/" target="_blank" rel="noreferrer"> 
-Live Preview: apps-burakkeskin.github.io
+Live Preview: https://wosberbondesu.github.io/
 </a> 
  
  </h3>
